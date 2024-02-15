@@ -1,0 +1,7 @@
+#ifndef DIVISIONS_H
+#define DIVISIONS_H
+
+#define DIVISIONS 4
+#define NUM_CELLS (DIVISIONS * DIVISIONS)
+
+#endif
