@@ -12,10 +12,12 @@ There is a single modifyable variable defined in the 'DIVISIONS.h' header. This 
 
 2 divisions (4 physics cells)
 | Cell 0 | Cell 1 |
+|--------|--------|
 | Cell 2 | Cell 3 |
 
 3 divisions (9 physics cells)
 | Cell 0 | Cell 1 | Cell 2 |
+|--------|--------|--------|
 | Cell 3 | Cell 4 | Cell 5 |
 | Cell 6 | Cell 7 | Cell 8 |
 
